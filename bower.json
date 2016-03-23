@@ -1,0 +1,27 @@
+{
+    "name": "jquery-scrollwatch",
+    "description": "jQuery plug-in for tracking the position of DOM elements and annotating them with descriptive classes",
+    "main": ["dist/jquery-scrollwatch.min.js", "dist/jquery-scrollwatch.min.js.map"],
+    "authors": [
+        "Adam Hall <adam@daedam.com>"
+    ],
+    "keywords": [
+        "jquery",
+        "scroll",
+        "position",
+        "tracking"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/daedam/jquery-scrollwatch",
+    "moduleType": [],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}

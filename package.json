@@ -1,0 +1,38 @@
+{
+  "name": "jquery-scrollwatch",
+  "version": "0.1.0",
+  "description": "jQuery plug-in for tracking the position of DOM elements and annotating them with descriptive classes",
+  "main": "src/jquery-scrollwatch.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daedam/jquery-scrollwatch.git"
+  },
+  "keywords": [
+    "jquery",
+    "scroll",
+    "position",
+    "tracking"
+  ],
+  "author": "Adam Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daedam/jquery-scrollwatch/issues"
+  },
+  "homepage": "https://github.com/daedam/jquery-scrollwatch#readme",
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.1",
+    "gulp-babel": "^6.1.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-eslint": "^0.13.2",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.5.0",
+    "gulp-uglify": "^1.1.0"
+  }
+}
